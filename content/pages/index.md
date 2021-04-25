@@ -31,6 +31,7 @@ sections:
         image_align: center
         title: depresiones
         title_align: center
+        subtitle: depresiones
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
