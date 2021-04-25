@@ -326,7 +326,7 @@ sections:
     background_color: secondary
 seo:
   title: terapio.ar
-  description: The preview of the DIY theme
+  description: 'Guía de psicólogos, terapeutas y profesionales de la salud mental'
   extra:
     - name: 'og:type'
       value: website
