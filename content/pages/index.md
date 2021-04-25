@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: síntomas y problemáticas
     subtitle: Seleccionar por problemática
     align: center
     grid_items:
