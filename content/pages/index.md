@@ -29,7 +29,6 @@ sections:
       - image: images/depre.webp
         image_alt: Contentful logo
         image_align: center
-        title: depresiones
         title_align: center
         subtitle: depresiones
       - image: images/logo-2.svg
