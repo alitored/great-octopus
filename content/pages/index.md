@@ -55,7 +55,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: por especialidades
-    subtitle: Features Section Example
+    subtitle: Seleccionar por especialidades
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
