@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Guía de profesionales de Salud Mental
-    subtitle: Optional hero section subtitle
+    subtitle: A.M.B.A.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
