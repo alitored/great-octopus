@@ -30,6 +30,7 @@ sections:
         image_alt: Contentful logo
         image_align: center
         title: depresiones
+        title_align: right
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
