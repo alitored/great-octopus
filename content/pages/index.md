@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Guía de profesionales de Salud Mental
     subtitle: A.M.B.A.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      para encontrar muy facil y rápidamente los profesionales adecuados.
     actions:
       - label: Try Free
         url: /pricing
