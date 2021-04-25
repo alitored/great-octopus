@@ -26,7 +26,7 @@ sections:
     subtitle: Seleccionar por problemática
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/depre.webp
         image_alt: Contentful logo
         image_align: center
       - image: images/logo-2.svg
