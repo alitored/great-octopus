@@ -25,7 +25,7 @@ sections:
     title: síntomas y problemáticas
     subtitle: >-
       Busca psicólogos por especialidad, orientación, modalidad de consulta
-      (online o presencial), ciudad,... en definitiva, un profesiona tus
+      (online o presencial), ciudad,... en definitiva, un profesional según tus
       necesidades.
     align: center
     grid_items:
