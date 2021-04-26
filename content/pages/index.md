@@ -54,6 +54,7 @@ sections:
       - image: images/perdida-de-deseos.webp
         image_alt: Next.js logo
         image_align: center
+        subtitle: pérdida de deseos
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
