@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: síntomas y problemáticas
+    title: algunos síntomas comunes
     subtitle: >-
       Busca psicólogos por especialidad, orientación, modalidad de consulta
       (online o presencial), ciudad,... en definitiva, un profesional según tus
