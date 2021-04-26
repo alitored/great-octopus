@@ -39,7 +39,7 @@ sections:
       - image: images/dudas-obs.webp
         image_alt: Gatsby logo
         image_align: center
-        subtitle: dudas
+        subtitle: 'dudas, obsesiones'
       - image: images/logo-4.svg
         image_alt: Sanity logo
         image_align: center
