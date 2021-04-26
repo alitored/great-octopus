@@ -49,7 +49,7 @@ sections:
       - image: images/temores-inseguridad.webp
         image_alt: DatoCMS logo
         image_align: center
-        subtitle: inseguridad
+        subtitle: inseguridades
         title_align: center
       - image: images/logo-6.svg
         image_alt: Next.js logo
