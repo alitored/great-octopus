@@ -122,10 +122,8 @@ sections:
         media_width: fifty
       - title: Encontrar por cercanía
         subtitle: Conectate con los profesionales de tu localidad
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          CABA y Pcia. de Buenos Aires
         actions:
           - label: Llevame
             url: /style-guide
