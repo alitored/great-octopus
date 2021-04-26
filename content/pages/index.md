@@ -142,10 +142,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “Todos nuestros profesionales online son licenciados y pasan por un
-          processo seguro de verificación y acreditación, además de moldearse
-          por rigurosos códigos de ética y privacidad..”
+      - title: "“Todos los profesionales\_ son licenciados y pasan por un processo seguro de verificación y acreditación, además de regirse por códigos de ética y privacidad..”"
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/terapiaen.webp
         image_alt: Brandon Guidelines
