@@ -143,8 +143,9 @@ sections:
   - type: features_section
     features:
       - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+          “Todos nuestros profesionales online son licenciados y pasan por un
+          processo seguro de verificación y acreditación, además de moldearse
+          por rigurosos códigos de ética y privacidad..”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/terapiaen.webp
         image_alt: Brandon Guidelines
