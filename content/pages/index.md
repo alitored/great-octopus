@@ -69,10 +69,19 @@ sections:
     features:
       - title: Las escuelas y abordajes de los profesionales
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          La psicología funcional.
+          La psicología conductista.
+
+          *   El psicoanálisis.
+
+          *   La psicología cognitivista.
+
+          *   La psicología humanista.
+
+          *   La psicología sistémica.
+
+          *   La psicología gestáltica.
         actions:
           - label: Learn More
             url: /style-guide
