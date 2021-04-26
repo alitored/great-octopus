@@ -76,13 +76,7 @@ sections:
     features:
       - title: Orientaciones y abordajes de los profesionales
         subtitle: "Elegí vos al terapeuta y la modalidad de terapia que buscás.\_No existen terapias mejores que otras, sino que cada una de ellas funcionará de forma más efectiva según cada paciente, el momento vital que está transitando y su objetivo terapéutico."
-        actions:
-          - label: Informarme
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/las_corrientes_de_la_psicologia_y_sus_caracteristicas.webp
         image_alt: Feature 1 placeholder image
         media_position: right
