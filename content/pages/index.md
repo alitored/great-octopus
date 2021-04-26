@@ -151,7 +151,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Tipos de psicologias
-    subtitle: Grid Section Example
+    subtitle: Otras demandas
     grid_items:
       - title: Psicología Clínica
         title_align: left
