@@ -56,7 +56,7 @@ sections:
         image_align: center
         subtitle: pérdida de deseos
         title_align: center
-      - image: images/logo-8.svg
+      - image: images/rupturas.webp
         image_alt: Git logo
         image_align: center
     grid_cols: four
