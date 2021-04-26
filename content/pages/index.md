@@ -71,7 +71,7 @@ sections:
     has_border: true
     enable_cards: false
   - type: features_section
-    title: por especialidades
+    title: por orientaciones
     subtitle: Seleccionar por especialidades
     features:
       - title: Orientaciones y abordajes de los profesionales
