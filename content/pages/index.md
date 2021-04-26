@@ -34,6 +34,7 @@ sections:
       - image: images/ira.webp
         image_alt: Netlify logo
         image_align: center
+        subtitle: ira
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
