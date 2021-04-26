@@ -98,17 +98,21 @@ sections:
           Podés localizar al profesional de tu interés según su estilo de
           formación.
         content: |
-          *   La psicología conductista.
+          *    psicología conductista
 
-          *   El psicoanálisis.
+          <!---->
 
-          *   La psicología cognitivista.
+          *   psicoanálisis
 
-          *   La psicología humanista.
+          <!---->
 
-          *   La psicología sistémica.
+          *   psicología cognitiva
 
-          *   La psicología gestáltica.
+          *   psicología humanista
+
+          *   psicología sistémica
+
+          *   psicología gestáltica
         actions:
           - label: Learn More
             url: /style-guide
