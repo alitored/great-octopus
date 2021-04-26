@@ -72,7 +72,7 @@ sections:
     enable_cards: false
   - type: features_section
     title: por orientaciones
-    subtitle: Seleccionar por especialidades
+    subtitle: Seleccionar profesionales por sus modalidades
     features:
       - title: Orientaciones y abordajes de los profesionales
         subtitle: "Elegí vos al terapeuta y la modalidad de terapia que buscás.\_No existen terapias mejores que otras, sino que cada una de ellas funcionará de forma más efectiva según cada paciente, el momento vital que está transitando y su objetivo terapéutico."
