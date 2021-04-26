@@ -75,9 +75,7 @@ sections:
     subtitle: Seleccionar por especialidades
     features:
       - title: Orientaciones y abordajes de los profesionales
-        subtitle: >-
-          Podés localizar al profesional de tu interés según su estilo de
-          formación.
+        subtitle: "Elegí vos al terapeuta y la modalidad de terapia que buscás.\_No existen terapias mejores que otras, sino que cada una de ellas funcionará de forma más efectiva según cada paciente, el momento vital que está transitando y su objetivo terapéutico."
         content: |
           *    psicología conductista
 
