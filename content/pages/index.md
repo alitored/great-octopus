@@ -90,7 +90,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: images/las_corrientes_de_la_psicologia_y_sus_caracteristicas.webp
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
