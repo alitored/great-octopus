@@ -10,7 +10,7 @@ sections:
       - label: Busco profesional
         url: /pricing
         style: primary
-      - label: Registrarme
+      - label: 'Registrarme '
         url: /features
         style: secondary
     image: images/terapio-cuadrado.png
