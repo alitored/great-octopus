@@ -23,7 +23,10 @@ sections:
     background_color: primary
   - type: grid_section
     title: síntomas y problemáticas
-    subtitle: Seleccionar por problemática
+    subtitle: >-
+      Busca psicólogos por especialidad, orientación, modalidad de consulta
+      (online o presencial), ciudad, idioma... en definitiva, un profesional
+      adaptado a tus necesidades.
     align: center
     grid_items:
       - image: images/depre.webp
