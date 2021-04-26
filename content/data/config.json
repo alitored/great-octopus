@@ -8,7 +8,7 @@
     "base_font": "serif",
     "header": {
         "title": "terapio",
-        "logo": "images/logo-terapio.png",
+        "logo": "images/violet-aspen.png",
         "logo_alt": "terapio logo",
         "has_primary_nav": true,
         "primary_nav_links": [
