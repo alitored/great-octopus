@@ -67,7 +67,7 @@ sections:
     title: por especialidades
     subtitle: Seleccionar por especialidades
     features:
-      - title: The Big Title For the Feature
+      - title: Las escuelas y técnicas de los profesionales
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
