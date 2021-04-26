@@ -7,7 +7,7 @@ sections:
     content: |
       para encontrar muy facil y rápidamente los profesionales adecuados.
     actions:
-      - label: Try Free
+      - label: Busco profesional
         url: /pricing
         style: primary
       - label: Learn More
