@@ -127,7 +127,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         actions:
-          - label: llevame
+          - label: Llevame
             url: /style-guide
             style: primary
             has_icon: true
