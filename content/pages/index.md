@@ -66,7 +66,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: small
     has_border: true
-    enable_cards: false
+    enable_cards: true
   - type: features_section
     title: por especialidades
     subtitle: Seleccionar por especialidades
