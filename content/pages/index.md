@@ -76,22 +76,6 @@ sections:
     features:
       - title: Orientaciones y abordajes de los profesionales
         subtitle: "Elegí vos al terapeuta y la modalidad de terapia que buscás.\_No existen terapias mejores que otras, sino que cada una de ellas funcionará de forma más efectiva según cada paciente, el momento vital que está transitando y su objetivo terapéutico."
-        content: |
-          *    psicología conductista
-
-          <!---->
-
-          *   psicoanálisis
-
-          <!---->
-
-          *   psicología cognitiva
-
-          *   psicología humanista
-
-          *   psicología sistémica
-
-          *   psicología gestáltica
         actions:
           - label: Informarme
             url: /style-guide
