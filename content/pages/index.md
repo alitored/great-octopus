@@ -59,6 +59,7 @@ sections:
       - image: images/rupturas.webp
         image_alt: Git logo
         image_align: center
+        subtitle: rupturas
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
