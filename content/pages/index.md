@@ -12,7 +12,7 @@ sections:
         style: primary
       - label: Registrarme
         url: /features
-        style: secondary
+        style: primary
     image: images/terapio-cuadrado.png
     image_alt: Hero section placeholder image
     media_position: left
