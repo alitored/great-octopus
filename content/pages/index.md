@@ -35,7 +35,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         subtitle: ira
-        title_align: right
+        title_align: center
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
