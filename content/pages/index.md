@@ -94,7 +94,9 @@ sections:
     subtitle: Seleccionar por especialidades
     features:
       - title: Las escuelas y abordajes de los profesionales
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Podés localizar al profesional de tu interés según su estilo de
+          formación.
         content: |
           *   La psicología conductista.
 
