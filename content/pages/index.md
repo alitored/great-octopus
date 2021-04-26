@@ -74,7 +74,7 @@ sections:
     title: por especialidades
     subtitle: Seleccionar por especialidades
     features:
-      - title: Las escuelas y abordajes de los profesionales
+      - title: Orientaciones y abordajes de los profesionales
         subtitle: >-
           Podés localizar al profesional de tu interés según su estilo de
           formación.
