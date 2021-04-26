@@ -28,7 +28,7 @@ sections:
     grid_items:
       - image: images/depre.webp
         image_alt: Contentful logo
-        image_align: center
+        image_align: left
         title_align: center
         subtitle: depresiones
       - image: images/ira.webp
