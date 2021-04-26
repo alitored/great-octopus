@@ -61,6 +61,7 @@ sections:
         image_align: center
         subtitle: rupturas
         title_align: center
+        image_width: thirty-three
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
