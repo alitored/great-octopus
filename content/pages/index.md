@@ -46,7 +46,7 @@ sections:
         image_align: center
         subtitle: pasiones
         title_align: center
-      - image: images/logo-5.svg
+      - image: images/temores-inseguridad.webp
         image_alt: DatoCMS logo
         image_align: center
       - image: images/logo-6.svg
