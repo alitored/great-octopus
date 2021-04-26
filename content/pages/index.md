@@ -36,7 +36,7 @@ sections:
         image_align: center
         subtitle: ira
         title_align: center
-      - image: images/logo-3.svg
+      - image: images/dudas-obs.webp
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-4.svg
