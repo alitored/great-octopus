@@ -44,6 +44,7 @@ sections:
       - image: images/pasiones-vinculos.webp
         image_alt: Sanity logo
         image_align: center
+        subtitle: pasiones
       - image: images/logo-5.svg
         image_alt: DatoCMS logo
         image_align: center
