@@ -70,11 +70,13 @@ sections:
       - title: Las escuelas y abordajes de los profesionales
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: |
-          *   La psicología funcional.
+
 
           *   La psicología conductista.
 
           *   El psicoanálisis.
+
+          <!---->
 
           *   La psicología cognitivista.
 
