@@ -143,7 +143,6 @@ sections:
   - type: features_section
     features:
       - title: "“Todos los profesionales\_ son licenciados y pasan por un processo seguro de verificación y acreditación, además de regirse por códigos de ética y privacidad..”"
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/terapiaen.webp
         image_alt: Brandon Guidelines
         media_position: right
