@@ -55,6 +55,7 @@ sections:
         image_alt: Next.js logo
         image_align: center
         subtitle: pérdida de deseos
+        title_align: center
       - image: images/logo-7.svg
         image_alt: Gridsome logo
         image_align: center
