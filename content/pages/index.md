@@ -70,17 +70,17 @@ sections:
       - title: Las escuelas y abordajes de los profesionales
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: |
-          ##### La psicología conductista.
+          ###### La psicología conductista.
 
-          ##### El psicoanálisis.
+          ###### El psicoanálisis.
 
-          ##### La psicología cognitivista.
+          ###### La psicología cognitivista.
 
-          ##### La psicología humanista.
+          ###### La psicología humanista.
 
-          ##### La psicología sistémica.
+          ###### La psicología sistémica.
 
-          ##### La psicología gestáltica.
+          ###### La psicología gestáltica.
         actions:
           - label: Learn More
             url: /style-guide
