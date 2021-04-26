@@ -114,7 +114,7 @@ sections:
 
           *   psicología gestáltica
         actions:
-          - label: Learn More
+          - label: Informarme
             url: /style-guide
             style: primary
             has_icon: true
