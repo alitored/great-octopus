@@ -108,7 +108,7 @@ sections:
       - title: >-
           Encontrar por rango de edades, niñez, adolescencias, adultos y
           mayores.
-        content: "Si buscás asistencia en salud mental de calidad, estos profesionales te pueden ofrecer los servicios terapéuticos que necesitás.\_**Elegí vos al terapeuta y la modalidad de terapia que buscás.**\_No existen terapias mejores que otras, sino que cada una de ellas funcionará de forma más efectiva según cada paciente, el momento vital que está transitando y su objetivo terapéutico.\n"
+        content: "Si buscás asistencia en salud mental de calidad, estos profesionales te pueden ofrecer los servicios terapéuticos que necesitás.\_\n"
         actions:
           - label: Llevame
             url: /style-guide
